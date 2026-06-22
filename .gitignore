@@ -1,0 +1,11 @@
+*.pyo
+*.pyc
+.DS_Store/*
+*/.DS_Store/*
+.*/.DS_Store/*
+build_all.*
+build_upul.*
+testing/*
+cc/ex/*
+tempCodeRunnerFile.py
+__pycache__/*
